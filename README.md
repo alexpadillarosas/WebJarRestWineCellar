@@ -1,5 +1,8 @@
 # WebjarRestWineCellar
-Website and Rest app using Webjars (Twitter Bootstrap and jQuery), jax-rs, Thorntail.
+Website and Rest app bundled together using Webjars(Twitter Bootstrap and jQuery), jax-rs, Thorntail.
+ 
+### Thanks to Christophe Coenraets @ccoenraets, for the original post
+http://coenraets.org/blog/2011/12/restful-services-with-jquery-and-java-using-jax-rs-and-jersey/
 
 Thorntail
 -------
